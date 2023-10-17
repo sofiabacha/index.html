@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    color:slategrey;
+    text-align: center;
+}
+.assign{
+    display: flex;
+    padding: 10px;
+    margin: 10ppx;
+    background-color: aliceblue;
+}
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
