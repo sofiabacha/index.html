@@ -8,15 +8,21 @@ h1{
 }
 a{
     text-decoration: none;
-    color: ---
+    color: midnightblue
 }
 .assign{
     display: flex;
     padding: 10px;
     margin: 10px;
+    border-radius: 20px;
     background-color: aliceblue;
+}
+a:hover{
+    text-decoration: none;
+    color: blue;
 }
 .assign img{
     width: 300px;
     padding: 10px;
+    border: 2px solid midnightblue;
 }
