@@ -10,6 +10,12 @@ h1{
     color:slategrey;
     text-align: center;
 }
+h1: hover{
+    color: grey;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
 a{
     text-decoration: none;
     color: midnightblue
