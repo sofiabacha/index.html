@@ -1,5 +1,5 @@
 body{
-    background-color: #E4B98D;
+    background-color: #DFE0E5;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: flex;
     flex-wrap: wrap;
@@ -7,34 +7,34 @@ body{
 h1{
     width: 100%;
     display: block;
-    color: #967A5D;
+    color: #555A69;
     text-align: center;
 } 
 h1: hover{
-    color: #45382B;
+    color: #353F74;
     text-align: center;
     width: 100%;
     display: block;
 }
 a{
     text-decoration: none;
-    color: #BF9B77;
+    color: #555A69;
 }
 .assign{
     width: 20%;
-    box-shadow: 8px 8px #45382B;
+    box-shadow: 8px 8px #215974;
     display: block;
     padding: 10px;
     margin: 10px;
     border-radius: 20px;
-    background-color: #E4B98D;
+    background-color: #9BC0D2;
 }
 a:hover{
     text-decoration: none;
-    color: #BF9B77;
+    color: #353F74;
 }
 .assign img{
     width: 300px;
     padding: 10px;
-    border: 2px solid #6E5944;
+    border: 2px solid #72798A;
 }
