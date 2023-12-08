@@ -7,7 +7,7 @@ body{
 h1{
     width: 100%;
     display: block;
-    color:slategrey;
+    color: #967A5D;
     text-align: center;
 } 
 h1: hover{
@@ -22,16 +22,16 @@ a{
 }
 .assign{
     width: 20%;
-    box-shadow: 8px 8px grey;
+    box-shadow: 8px 8px #45382B;
     display: block;
     padding: 10px;
     margin: 10px;
     border-radius: 20px;
-    background-color: #45382B;
+    background-color: #6E5944;
 }
 a:hover{
     text-decoration: none;
-    color: #6E5944;
+    color: #BF9B77;
 }
 .assign img{
     width: 300px;
