@@ -11,14 +11,14 @@ h1{
     text-align: center;
 } 
 h1: hover{
-    color: grey;
+    color: #45382B;
     text-align: center;
     width: 100%;
     display: block;
 }
 a{
     text-decoration: none;
-    color: #967A5D;
+    color: #E4B98D;
 }
 .assign{
     width: 20%;
