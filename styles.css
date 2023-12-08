@@ -1,5 +1,5 @@
 body{
-    background-color: azure;
+    background-color: #6E5944;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: flex;
     flex-wrap: wrap;
@@ -9,7 +9,7 @@ h1{
     display: block;
     color:slategrey;
     text-align: center;
-}
+} 
 h1: hover{
     color: grey;
     text-align: center;
@@ -18,7 +18,7 @@ h1: hover{
 }
 a{
     text-decoration: none;
-    color: midnightblue
+    color: #967A5D;
 }
 .assign{
     width: 20%;
@@ -27,14 +27,14 @@ a{
     padding: 10px;
     margin: 10px;
     border-radius: 20px;
-    background-color: aliceblue;
+    background-color: #45382B;
 }
 a:hover{
     text-decoration: none;
-    color: blue;
+    color: #6E5944;
 }
 .assign img{
     width: 300px;
     padding: 10px;
-    border: 2px solid midnightblue;
+    border: 2px solid #6E5944;
 }
